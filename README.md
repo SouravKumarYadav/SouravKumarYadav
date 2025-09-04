@@ -29,6 +29,7 @@
 
 ## 🎯 My Learning Roadmap
 
+```mermaid
 graph TD
     A[HTML] --> B[CSS]
     B --> C[Bootstrap]
