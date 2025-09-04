@@ -29,7 +29,7 @@
 
 ## 🎯 My Learning Roadmap
 
-flowchart TD
+graph TD
     A[HTML] --> B[CSS]
     B --> C[Bootstrap]
     C --> D[SQL]
@@ -38,4 +38,5 @@ flowchart TD
     F --> G[Flexbox]
     G --> H[Git]
     H --> I[Node.js]
-    I --> J[React.js]=
+    I --> J[React.js]
+
