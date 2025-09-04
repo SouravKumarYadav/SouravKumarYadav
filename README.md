@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Sourav Kumar Yadav  
 
-<!--
-**SouravKumarYadav/SouravKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Web Development** (HTML, CSS, Bootstrap) and have completed **SQL**.  
+👨‍💻 I’m progressing on **Python**, **JavaScript**, **Flexbox**, **Git/GitHub**, **Node.js**, and **React.js**.  
+📫 How to reach me:  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/sourav-kumar-cs)  
+[![X Badge](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Sourav_Kumar_1)
 
-Here are some ideas to get you started:
+⚡ Fun fact: I turn coffee into code!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/> 
+</div>
+
+---
+
+## 🎯 My Learning Roadmap
+
+```mermaid
+flowchart TD
+    HTML --> CSS --> Bootstrap --> SQL
+    SQL --> Python --> JavaScript --> Flexbox
+    Flexbox --> Git --> NodeJS --> React
