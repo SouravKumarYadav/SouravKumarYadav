@@ -3,7 +3,7 @@
 🌱 I’m currently learning **Web Development** (HTML, CSS, Bootstrap) and have completed **SQL**.  
 👨‍💻 I’m progressing on **Python**, **JavaScript**, **Flexbox**, **Git/GitHub**, **Node.js**, and **React.js**.  
 📫 How to reach me:  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/sourav-kumar-cs)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sourav-kumar-cs/)  
 [![X Badge](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Sourav_Kumar_1)
 
 ⚡ Fun fact: I turn coffee into code!  
