@@ -29,8 +29,13 @@
 
 ## 🎯 My Learning Roadmap
 
-```mermaid
 flowchart TD
-    HTML --> CSS --> Bootstrap --> SQL
-    SQL --> Python --> JavaScript --> Flexbox
-    Flexbox --> Git --> NodeJS --> React
+    A[HTML] --> B[CSS]
+    B --> C[Bootstrap]
+    C --> D[SQL]
+    D --> E[Python]
+    E --> F[JavaScript]
+    F --> G[Flexbox]
+    G --> H[Git]
+    H --> I[Node.js]
+    I --> J[React.js]=
